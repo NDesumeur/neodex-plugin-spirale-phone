@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.spirale",
+  "repo": "NDesumeur/neodex-plugin-spirale-phone",
+  "version": "1.0.0",
+  "sha256": "4fae99a8eb91321ee652743bc5ae454d2d6c12d6c4075e1e0fba41ac4adb506d",
+  "approvedAt": "2026-11-24T15:56:21.789Z",
+  "neobase": ">=4.0.0",
+  "signature": "GojKHQ2UDXd+pUQOEKtex4zD0sN/Jp2JvPCqG/avrlNlv8Bl+ynHmSCMtM40B2qGOTBsBoRipwJ1idAwVuDMAg=="
+}
